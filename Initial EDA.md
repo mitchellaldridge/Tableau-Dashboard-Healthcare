@@ -1,4 +1,4 @@
-Final EDA
+Initial EDA
 ================
 2025-11-25
 
@@ -255,4 +255,5 @@ ggplot(df, aes(x = Gender, y = Life_Expectancy)) +
 ``` r
 write_csv(df, "clean_life.csv")
 ```
+
 
