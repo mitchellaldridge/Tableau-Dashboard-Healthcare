@@ -1,7 +1,7 @@
 # Life Expectancy & Healthcare Spending Dashboard (Tableau)
 
 ## Overview
-This project explores the relationship between the percent of overall spending that goes towards healthcare and any effect that would have on life expectancy. Data cleaning and analysis will be done in R and an interactive visualization will be available in tableau.
+This project explores the relationship between the percentage of overall spending that goes towards healthcare and any effect that would have on life expectancy. Data cleaning and analysis will be done in R and an interactive visualization will be available in tableau.
 
 ## Data
 This data joins two country level data sources together, one with government healthcare spending data and the other with life expectancy data.
@@ -16,15 +16,15 @@ This data joins two country level data sources together, one with government hea
 - Got the dataset ready for export to tableau.
 ### Step 3: Dashboard Creation
 - Built an interactive dashboard in Tableau showcasing the following:
-    - Lineplots of life expectancy and government percent spending by region
+    - Line plots of life expectancy and government percent spending by region
     - Scatterplot with trendline on healthcare spending and life expectancy
-    - A global heatmap allowing user to switch between healthcare spending and life expectancy
-    - Filtering options of yearspan, countries and regions
+    - A global heatmap allowing users to switch between healthcare spending and life expectancy
+    - Filtering options of year span, countries and regions
 ## Results
 - Countries with higher healthcare spending had significantly improved life expectancy
-- There are regional differences on both life expectancy and healthcare spending
+- There are regional differences in both life expectancy and healthcare spending
 - The interactive features allow users to explore these variables themselves on global, regional and country level scales
 ## DASHBOARD LINK
 https://mitchellaldridge.github.io/Tableau-Dashboard-Healthcare/
 
-For best viewing load into fullscreen when on dashboard page.
+For best viewing load into full screen when on dashboard page.
